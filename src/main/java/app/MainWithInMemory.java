@@ -70,5 +70,6 @@ public class MainWithInMemory {
 
         application.pack();
         application.setVisible(true);
+
     }
 }
